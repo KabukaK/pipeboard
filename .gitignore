@@ -1,0 +1,11 @@
+.env
+
+/bin/
+*.exe
+
+/vendor/
+
+.idea/
+.vscode/
+.DS_Store
+Thumb.db
